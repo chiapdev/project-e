@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4">
-                <a className="navbar-brand" href="#">
+                <a className="navbar-brand" href="/">
                     <img src={logo} width="30" height="30"
                          className="d-inline-block align-top" alt=""/>
                     Project E
