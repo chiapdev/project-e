@@ -3,9 +3,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Parse from 'parse/dist/parse.min.js';
-import {GroupComponent} from './Components/GroupComponent';
 import Navbar from './Components/Navbar/Navbar';
-import Login from './Components/Login/Login';
 import Home from './pages/Home';
 import Journal from './pages/Journal';
 import Calendar from './Components/Calendar/Calendar';
@@ -18,12 +16,6 @@ Parse.initialize(PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY);
 Parse.serverURL = PARSE_HOST_URL;
 
 function App() {
-    const [token, setToken] = useState();
-
-    // if(!token) {
-    //     return <Login setToken={setToken} />
-    // }
-
     return (
         <div className="App">
             <BrowserRouter>
