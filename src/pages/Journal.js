@@ -11,7 +11,7 @@ export default function Journal() {
                     <div className="date-content">
                         <div className="date-outer">
                                     <span className="date">
-                                            <span className="month">27 Greed</span>
+                                            <span className="month">27 Tru'nembra</span>
                                     <span className="year">1097</span>
                                     </span>
                         </div>
@@ -34,7 +34,7 @@ export default function Journal() {
                     <div className="date-content">
                         <div className="date-outer">
                                     <span className="date">
-                                            <span className="month">29 Greed</span>
+                                            <span className="month">29 Tru'nembra</span>
                                     <span className="year">1097</span>
                                     </span>
                         </div>
@@ -57,7 +57,7 @@ export default function Journal() {
                     <div className="date-content">
                         <div className="date-outer">
                                     <span className="date">
-                                            <span className="month">4 Lust</span>
+                                            <span className="month">4 Mh'ithrha</span>
                                     <span className="year">1097</span>
                                     </span>
                         </div>
@@ -84,7 +84,7 @@ export default function Journal() {
                     <div className="date-content">
                         <div className="date-outer">
                                     <span className="date">
-                                            <span className="month">10 Lust</span>
+                                            <span className="month">10 Mh'ithrha</span>
                                     <span className="year">1097</span>
                                     </span>
                         </div>
@@ -92,7 +92,66 @@ export default function Journal() {
                     <div className="timeline-content">
                         <h5 className="title">I dispositivi di controllo, la famiglia di Vordin e il sogno</h5>
                         <p className="description">
-                            Domani
+                            Ritornati alla base, gli avventurieri pressano il capitano Ras per una spiegazione sul ruolo dei Seguaci e dei dispositivi.
+                            Ras spiega loro che i Seguaci si occupano, oltre alla lotta con Chiesa e Manti, di proteggere gli incantatori dalla Chiesa,
+                            attraverso dei dispositivi di soppressione del potere. Scoprono inoltre che i genitori di Vordin erano in realtà dei Seguaci,
+                            che si erano presa cura di lui in tenera età, prima di morire in un agguato dei Manti Bianchi. Ras propone ai tre compagni di
+                            unirsi ufficialmente ai Seguaci, ma la decisione viene rimandata all'indomani.\n
+                            Durante la notte, Yesua ha una visione, in cui una figura femminile con piume di corvo sussurra: \n"Campione, il tempo sta finendo. Ogni giorno... si avvicina e Noi...
+                            se non ci permetterai di riacquistare forza. Risveglia i ricordi... negli abitanti di Unus, fa' sì che le loro... ci restituiscano i poteri.
+                            Il tempo... sta finendo, quindi ricorda:... sono pericolosi, non credere a... I manti bianchi sanno... , mentre a... oltre le montagne di BoneFang..."
+                            L'indomani, Ras spiega loro che non conosce l'ubicazione delle montagne di BoneFang, ma probabilmente Aratorn sì, ma purtroppo è partito per una spedizione a nord.
+                            I compagni decidono quindi, anche se non molto convinti, di unirsi ai Seguaci e di partire per una missione ricognitiva a Fort Knox, fortino recentemente conquistato dai Manti Bianchi,
+                            con l'intenzione di proseguire successivamente oltre verso nord per incontrare Aratorn.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="timeline">
+                    <div className="icon"></div>
+                    <div className="date-content">
+                        <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">13 Mh'ithrha</span>
+                                    <span className="year">1097</span>
+                                    </span>
+                        </div>
+                    </div>
+                    <div className="timeline-content">
+                        <h5 className="title">Lotta nella foresta</h5>
+                        <p className="description">
+                            Dopo 3 giorni di cammino nella foresta a nord della base, i tre avventurieri incontano quello che sembra
+                            un accampamento di mercanti sotto attacco da parte di belve feroci, guidate da una creatura simile a un satiro.
+                            Vordin propone di intervenire in modo pacifico per bloccare la lotta, ma una freccia scoccata con mira scadente da Amstan
+                            colpisce un enorme lupo, che attacca il gruppo con ferocia inarrestabile. A niente servono i tentativi di Vordin di avvicinare la
+                            strana creatura, che viene abbattuta dagli occupanti della carovana, che a scontro finito si presentano come mercanti.
+                            Poco convinti dalla storia dei presunti mercanti, i 3 li incalzano fino a scoprire che, in realtà, altro non sono che schiavisti, che avevano imprigionato
+                            i veri mercanti. Dopo averli abbattuti, anche grazie all'aiuto di alcuni Manti Bianchi nascosti tra gli alberi,
+                            ed aver liberato i veri mercanti, decidono di accettare la loro gratitudine e farsi accompagnare a Fort Knox.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="timeline">
+                    <div className="icon"></div>
+                    <div className="date-content">
+                        <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">17 Mh'ithrha</span>
+                                    <span className="year">1097</span>
+                                    </span>
+                        </div>
+                    </div>
+                    <div className="timeline-content">
+                        <h5 className="title">Arrivo a Fort Knox</h5>
+                        <p className="description">
+                            Arrivati alle porte di Fort Knox, i tre compagni riescono ad entrare in città dopo aver sfiorato una rissa con le guardie,
+                            grazie anche all'intervento di un messaggero che sembra aver riferito qualcosa al capitano delle guardie.
+                            Sistemati i cavalli nella stalla del forte, si dirigono alla locanda, dove vengono a sapere che il viavai presente in città
+                            è dovuto a un grande torneo, che si sarebbe tenuto a distanza di due giorni, al quale avrebbero partecipato anche dei pezzi grossi
+                            dei Manti Bianchi.
+                            Dopo aver fatto svenire il povero oste ed essere stati derisi per le condizioni pietose dell'arma di Amstan, i tre avventurieri decidono
+                            di andare a riposarsi, per poi dirigersi il giorno seguente dall'unico fabbro del villaggio, per convincerlo a riparare l'arma di Amstan.
                         </p>
                     </div>
                 </div>
