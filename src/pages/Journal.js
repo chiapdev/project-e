@@ -17,7 +17,7 @@ export default function Journal() {
                         </div>
                     </div>
                     <div className="timeline-content">
-                        <h5 className="title">L'esecuzione a Farshire</h5>
+                        <h5 className="title">Esecuzione a Farshire</h5>
                         <p className="description">
                             Un gruppo di Manti Bianchi ha condotto tre prigionieri nel villaggio di Farshire con l'intenzione
                             di giustiziarli pubblicamente davanti agli abitanti.
@@ -40,9 +40,9 @@ export default function Journal() {
                         </div>
                     </div>
                     <div className="timeline-content">
-                        <h5 className="title">La base dei Seguaci della Luce</h5>
+                        <h5 className="title">La base dei Seguaci della Verità</h5>
                         <p className="description">
-                            Dopo aver rivelato di essere un membro dei Seguaci della Luce, Aratorn conduce i tre ragazzi alla base dell'organizzazione, situata circa
+                            Dopo aver rivelato di essere un membro dei Seguaci della Verità, Aratorn conduce i tre ragazzi alla base dell'organizzazione, situata circa
                             50 miglia a nord ovest di Farshire. La base è situata all'interna di una collina, sulla cui sommità si trova una chiesa della Chiesa degli Occhi,
                             utilizzata dai Seguaci come copertura.
                             All'interno della base vengono accolti dal capitano Ras, che spiega loro lo scopo dei Seguaci e il loro impegno nel combattere la corrotta Chiesa e
@@ -96,8 +96,8 @@ export default function Journal() {
                             Ras spiega loro che i Seguaci si occupano, oltre alla lotta con Chiesa e Manti, di proteggere gli incantatori dalla Chiesa,
                             attraverso dei dispositivi di soppressione del potere. Scoprono inoltre che i genitori di Vordin erano in realtà dei Seguaci,
                             che si erano presa cura di lui in tenera età, prima di morire in un agguato dei Manti Bianchi. Ras propone ai tre compagni di
-                            unirsi ufficialmente ai Seguaci, ma la decisione viene rimandata all'indomani.\n
-                            Durante la notte, Yesua ha una visione, in cui una figura femminile con piume di corvo sussurra: \n"Campione, il tempo sta finendo. Ogni giorno... si avvicina e Noi...
+                            unirsi ufficialmente ai Seguaci, ma la decisione viene rimandata all'indomani. <br></br>
+                            Durante la notte, Yesua ha una visione, in cui una figura femminile con piume di corvo sussurra: "Campione, il tempo sta finendo. Ogni giorno... si avvicina e Noi...
                             se non ci permetterai di riacquistare forza. Risveglia i ricordi... negli abitanti di Unus, fa' sì che le loro... ci restituiscano i poteri.
                             Il tempo... sta finendo, quindi ricorda:... sono pericolosi, non credere a... I manti bianchi sanno... , mentre a... oltre le montagne di BoneFang..."
                             L'indomani, Ras spiega loro che non conosce l'ubicazione delle montagne di BoneFang, ma probabilmente Aratorn sì, ma purtroppo è partito per una spedizione a nord.
