@@ -156,6 +156,61 @@ export default function Journal() {
                     </div>
                 </div>
 
+                <div className="timeline">
+                    <div className="icon"></div>
+                    <div className="date-content">
+                        <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">21 Mh'ithrha</span>
+                                    <span className="year">1097</span>
+                                    </span>
+                        </div>
+                    </div>
+                    <div className="timeline-content">
+                        <h5 className="title">La chiesa di Gond</h5>
+                        <p className="description">
+                            Il fabbro Brom era un mero spettro dell'uomo possente di un tempo. Distrutto dal rapimento, da parte della chiesa,
+                            prima di suo figlio e poi di sua nipotina, chiede agli avventurieri di recarsi alla chiesa fuori dal villaggio per cercare
+                            tracce di sua nipote.
+                            L'assalto alla chiesa comincia al calar del sole, con gli avventurieri che esplorano la costruzione in apparenza deserta.
+                            Tramite un meccanismo magico scatenato dall'organo, la chiesa prende vita e si anima di spettri guardiani, trasformando improvvisamente
+                            una missione esplorativa in una lotta per la sopravvivenza. Dopo aver azionato un meccanismo segreto, i tre disattivano una barriera
+                            che impediva l'accesso ai sotterranei, scoprendo una stanza in cui venivano probabilmente effettuati sacrifici umani.
+                            Alcune delle statue che circondano la stanza si rivelano afflitte da dei tentacoli senzienti che solo Vordin può percepire e, grazie all'aiuto
+                            congiunto dei tre compagni, vengono distrutti, rivelando una stanza segreta. Nella stanzetta si trovano i resti di un corpo, accanto al quale giace un nastro
+                            verde, appartenente alla nipote di Brom. Dopo averlo recuperato, una creatura mostruosa attacca gli amici all'improvviso, costringendoli a fuggire.
+                            Una voce risuona nella testa di Yesua, dopodichè, appena usciti dalle porta della chiesa, una luce bianca avvolge la struttura e al suo dissolversi
+                            solo una distesa di terra si stende là dove si trovava l'edificio.
+                        </p>
+                    </div>
+                </div>
+
+                <div className="timeline">
+                    <div className="icon"></div>
+                    <div className="date-content">
+                        <div className="date-outer">
+                                    <span className="date">
+                                            <span className="month">22 Mh'ithrha</span>
+                                    <span className="year">1097</span>
+                                    </span>
+                        </div>
+                    </div>
+                    <div className="timeline-content">
+                        <h5 className="title">Doppelganger</h5>
+                        <p className="description">
+                            Esausti dalla lotta, gli avventurieri tornano in città, per riposarsi alla locanda. Vengono accolti da
+                            un redivivo oste, che li accoglie giovialmente. Dopo una breve colazione, i tre decidono di ritirarsi nelle proprie
+                            stanze, ma dopo poche ore l'oste si intrufola nella stanza di Arman e tenta di colpirlo a morte nel sonno. Scatta una lotta
+                            furiosa, in cui il nemico si rivela essere un doppelganger con uno scopo ben preciso: rapire Vordin.
+                            Neutralizzato l'essere, anche grazie all'aiuto di un monaco che era rimasto a bere in locanda, i tre amici tornano a riposarsi,
+                            per poi andare da Brom. Il fabbro è devastatato alla vista del fiocco, ma grazie alle parole di Yesua, che in una visione aveva
+                            compreso chi fosse la figura dalle piume di corvo e aveva appreso dell'esistenza di antichi dei, tra cui Gond, sembra
+                            riuscire a trovare uno scopo per andare avanti. Con la promessa di riparlarne dopo il torneo e dopo un infruttuosa visita al forte,
+                            i tre tornano alla locanda per riposarsi in vista del torneo, che si terrà il giorno seguente.
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
     );
